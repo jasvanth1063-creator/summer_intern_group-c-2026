@@ -5,6 +5,7 @@
   <strong>Report submitted by:</strong>
 </p>
 <p align="center">
+  <strong><B.JASVANTH></strong><sup>2B</sup><br>
   <strong>JAYANTH PANDEY</strong><sup>1A</sup><br>
 </p>
 <p align="center">
@@ -32,10 +33,10 @@
 
 ---
 
-<sup>A</sup> Chandigarh University;
-<sup>B</sup> Lendi Institute of Engineering and Technology, Vizianagaram;
-<sup>1</sup> jayantkvmau3@gmail.com;
-<sup>2</sup> jasvanth1063@gmail.com;
+<sup>A</sup>  Lendi Institute of Engineering and Technology, Vizianagaram;
+<sup>B</sup> Chandigarh University;
+<sup>1</sup> jasvanth1063@gmail.com;
+<sup>2</sup> jayantkvmau3@gmail.com;
 <sup>*</sup> sroy@ideas-tih.org
 
 ---
