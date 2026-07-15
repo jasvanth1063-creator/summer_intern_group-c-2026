@@ -6,7 +6,6 @@
 </p>
 <p align="center">
   <strong>JAYANTH PANDEY</strong><sup>1A</sup><br>
-  <strong>></strong><sup>2B</sup>
 </p>
 <p align="center">
   <em>For the successful completion of the internship as</em><br>
