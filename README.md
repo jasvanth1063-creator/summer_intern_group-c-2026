@@ -52,9 +52,9 @@ It includes all notebooks, processed datasets, output charts, saved models, and 
 
 ## Project Category
 
-- ✅ Machine Learning Project
-- ✅ Data Analysis Project
-- ✅ Interpretable AI Project
+- Machine Learning Project
+- Data Analysis Project
+- Interpretable AI Project
 
 ---
 
@@ -81,10 +81,10 @@ A prior GRU-based deep learning approach targeting exact coordinate regression p
 
 | Phase | Name | Notebook | Status |
 |---|---|---|---|
-| 3 | Exploratory Data Analysis | Phase3\_Bird\_Migration\_EDA\_Complete.ipynb | ✅ Completed |
-| 5 | Migration Zone Discovery (K-Means) | Phase5\_Migration\_Zone\_Discovery.ipynb | ✅ Completed |
-| 6 | Sequence Dataset Construction | Phase6\_Sequence\_Dataset\_Construction.ipynb | ✅ Completed |
-| 7 | Model Development | Phase7\_Model\_Development.ipynb | ✅ Completed |
+| 3 | Exploratory Data Analysis | Phase3\_Bird\_Migration\_EDA\_Complete.ipynb | Completed |
+| 5 | Migration Zone Discovery (K-Means) | Phase5\_Migration\_Zone\_Discovery.ipynb | Completed |
+| 6 | Sequence Dataset Construction | Phase6\_Sequence\_Dataset\_Construction.ipynb | Completed |
+| 7 | Model Development | Phase7\_Model\_Development.ipynb | Completed |
 
 ---
 
@@ -129,10 +129,10 @@ Group-C-Jasvanth/
 │       └── bird_migration_sequence.csv
 │
 ├── notebooks/
-│   ├── Phase3_Bird_Migration_EDA_Complete.ipynb
-│   ├── Phase5_Migration_Zone_Discovery.ipynb
-│   ├── Phase6_Sequence_Dataset_Construction.ipynb
-│   └── Phase7_Model_Development.ipynb
+│   ├── Bird_Migration_EDA_Complete.ipynb
+│   ├── Migration_Zone_Discovery.ipynb
+│   ├── Sequence_Dataset_Construction.ipynb
+│   └── Model_Development.ipynb
 │
 ├── output/
 │   ├── charts/
